@@ -4,7 +4,7 @@
 '''
 import numpy as np
 import random
-
+print("Bienbenidos a la bidimensión")
 matriz = np.diag([1,1,1])
 print(matriz)
 
@@ -13,3 +13,4 @@ for i in range(3):
         matriz[i][j] = random.randint(0,100)
         
 print(matriz)
+print("Chao pescao")
