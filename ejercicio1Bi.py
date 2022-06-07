@@ -4,6 +4,8 @@
 '''
 import numpy as np
 import random
+print("Bienbenidos a la bidimensión")
+print ('Hola!, Soy Nugmar')
 
 matriz = np.diag([1,1,1])
 print(matriz)
